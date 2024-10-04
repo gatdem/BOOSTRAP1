@@ -1,0 +1,14 @@
+h1{
+    color: rgb(127, 197, 255);
+    font-size: 3rem;
+}
+
+.pr-cont .row > *{
+    padding: 1rem 2rem;
+    background-color: rgba(203, 154, 249, 0.863);
+    border: 1px blueviolet solid;
+}
+
+.mi-fondo-color {
+    background-color: rgb(0, 0, 0) !important;
+}
